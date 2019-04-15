@@ -5,3 +5,22 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+ul{
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+
+.borderCol{
+    border-top: 5px solid #2E8B57; 
+}
+
+.noBorder{
+    border: none;
+    background: transparent;
+}
+
+.btmSpace{
+    margin-bottom: 20px;
+}
